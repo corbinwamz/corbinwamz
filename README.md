@@ -50,7 +50,6 @@ Concepts used: user input handling, persistence, reporting.
 A python version of the popular Wordle game playable in the terminal.
 Concepts used: string manipulation, game logic, loops and conditionals.
 
-(Links to repositories go here)
 
 🎯 Goals
 
