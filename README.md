@@ -63,3 +63,5 @@ Gaining more experience with full-stack development
 Building larger, more complex applications
 
 Applying computer science concepts to finance-related projects
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=corbinwamz&show_icons=true&theme=radical)
