@@ -1,5 +1,5 @@
 ## Hi, I'm Corbin Wamsley 👋
-![Profile Picture](DSC_3924.jpg)
+<img src="me.jpg" width="300" />
 
 I'm a student majoring in Computer Science and minoring in Finance at BYU–Idaho.
 
