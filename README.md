@@ -35,21 +35,18 @@ Command-Line Applications
 
 Here are some projects I’ve worked on that I’m particularly proud of:
 
-📈 Mock Stock Exchange
+📈 Website Screenshot Chrome Extension
 
-A simulated stock trading system where users can buy and sell stocks with virtual money.
-Concepts used: data management, file storage, business logic.
+https://github.com/corbinwamz/screenshot_extension
 
 ✅ Productivity & Habit Tracker
 
 A terminal-based program to track daily habits and productivity over time.
 Concepts used: user input handling, persistence, reporting.
 
-🎯 Wordle Game
+🎯 Homework AI Study Tool
 
-A python version of the popular Wordle game playable in the terminal.
-Concepts used: string manipulation, game logic, loops and conditionals.
-
+https://github.com/corbinwamz/HomeworkHelper
 
 🎯 Goals
 
