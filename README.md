@@ -43,6 +43,7 @@ https://github.com/corbinwamz/screenshot_extension
 
 A terminal-based program to track daily habits and productivity over time.
 Concepts used: user input handling, persistence, reporting.
+https://github.com/corbinwamz/HabitTracker
 
 🎯 Homework AI Study Tool
 
