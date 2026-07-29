@@ -70,7 +70,7 @@
 </tr>
 <tr>
   <td width="50%" colspan="2">
-    <h4><a href="[REPO LINK]">📊 Fortune 500 Stock Analysis Dashboard</a></h4>
+    <h4><a href="https://github.com/corbinwamz/corbinwamz/blob/main/Fortune500_analysis.xlsx">📊 Fortune 500 Stock Analysis Dashboard</a></h4>
     Business intelligence dashboard in Excel analyzing 7 Fortune 500 stocks over 10 years of weekly data using XLOOKUP, STDEV.S, and AVERAGE to surface volatility trends and investment insights.
     <br/><br/>
     <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
