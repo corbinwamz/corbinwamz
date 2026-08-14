@@ -35,7 +35,7 @@
 <table>
 <tr>
   <td width="50%">
-    <h4><a href="[REPO LINK]">💰 Personal Finance Budget App</a></h4>
+    <h4><a href="https://github.com/corbinwamz/MyBudgetApp">💰 Personal Finance Budget App</a></h4>
     Full-stack budgeting app with a JavaScript frontend and C#/ASP.NET Core backend. Custom REST API and data models built from scratch, integrated with the Plaid API for live bank transaction data.
     <br/><br/>
     <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
